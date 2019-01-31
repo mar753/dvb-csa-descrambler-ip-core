@@ -7,4 +7,4 @@ Source code is synthesizable and divided into three components:
 
 Each component has its own test bench.
 
-You can reuse this code, but please add a link to this repo.
+License MIT. You can reuse this code, but please add a link to this repo.
